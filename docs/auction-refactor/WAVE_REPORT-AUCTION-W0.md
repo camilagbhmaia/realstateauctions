@@ -5,7 +5,7 @@ Branch: chore/auction-w0-baseline-20260909
 Repository: camilagbhmaia/realstateauctions
 
 ## Status
-READY_FOR_PR
+PASS
 
 ## Reality check
 PASS
@@ -92,3 +92,4 @@ Negative authorization: baseline documentado; nenhuma implementação de auth oc
 BLOCKED até:
 1. merge verde da W0
 2. definição do projeto Supabase authority do Auctions Brazil
+
